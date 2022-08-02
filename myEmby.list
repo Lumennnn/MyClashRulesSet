@@ -1,9 +1,8 @@
 # NAME: Emby
-
-DOMAIN-SUFFIX,jiasu.ga # CC 公益服
-DOMAIN-SUFFIX,misakaf.org # Misakaf
-DOMAIN-SUFFIX,charontv.com # 卡戎
-DOMAIN-SUFFIX,blueseacdn.com # 蓝海
-DOMAIN-SUFFIX,hazards-home.xyz # office
+DOMAIN-SUFFIX,jiasu.ga
+DOMAIN-SUFFIX,misakaf.org
+DOMAIN-SUFFIX,charontv.com
+DOMAIN-SUFFIX,blueseacdn.com
+DOMAIN-SUFFIX,hazards-home.xyz
 DOMAIN-SUFFIX,emby.kim
 DOMAIN-SUFFIX,deja-vu.beauty

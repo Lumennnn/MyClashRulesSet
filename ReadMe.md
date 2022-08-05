@@ -17,3 +17,11 @@
 ### myServer
 
 `https://raw.githubusercontent.com/Lumennnn/MyClashRulesSet/master/rules/myServer.list`
+
+## ini文件raw地址
+
+### 三合一
+
+`https://raw.githubusercontent.com/Lumennnn/MyClashRulesSet/master/config/config_pbq/myRemoteCFW.ini`
+
+`https://raw.githubusercontent.com/Lumennnn/MyClashRulesSet/master/config/config_pbq/myRemoteCFW.ini`

@@ -13,3 +13,7 @@
 ### myPtWeb
 
 `https://raw.githubusercontent.com/Lumennnn/MyClashRulesSet/master/rules/myPtWeb.list`
+
+### myServer
+
+`https://raw.githubusercontent.com/Lumennnn/MyClashRulesSet/master/rules/myServer.list`

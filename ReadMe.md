@@ -24,4 +24,4 @@
 
 `https://raw.githubusercontent.com/Lumennnn/MyClashRulesSet/master/config/config_pbq/myRemoteCFW.ini`
 
-`https://raw.githubusercontent.com/Lumennnn/MyClashRulesSet/master/config/config_pbq/myRemoteCFW.ini`
+`https://raw.githubusercontent.com/Lumennnn/MyClashRulesSet/master/config/config_pbq/myRemoteOC.ini`

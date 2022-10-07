@@ -1,16 +1,17 @@
 # NAME: Emby
 
 DOMAIN-KEYWORD,emby
-DOMAIN-KEYWORD,Emby
-# Misty
-DOMAIN-SUFFIX,aaa.ax
+# orange
+DOMAIN-SUFFIX,embytv.cf
 # cc
-DOMAIN-SUFFIX,jiasu.ga
-# misakaf
-DOMAIN-SUFFIX,misakaf.org
+DOMAIN-SUFFIX,ccemby.tk
 # 卷毛鼠
 DOMAIN-SUFFIX,jmsooo.com
 # bluesea
 DOMAIN-SUFFIX,blueseacdn.com
-# orange
-DOMAIN-SUFFIX,52.al
+# misakaf
+DOMAIN-SUFFIX,misakaf.org
+# Ytoo/Plus
+DOMAIN-SUFFIX,ytoo.li
+# Misty
+DOMAIN-SUFFIX,aaa.ax
